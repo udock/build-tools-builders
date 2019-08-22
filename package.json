@@ -1,7 +1,7 @@
 {
   "name": "@udock/build-tools-builders",
   "description": "@udock/build-tools-builders",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "index.js",
   "files": [
     "lib",
